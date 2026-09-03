@@ -1,2 +1,2 @@
-# leetcode
-DSA
+# DSA
+leetcode
